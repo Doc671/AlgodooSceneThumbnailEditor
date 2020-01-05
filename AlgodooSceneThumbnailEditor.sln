@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgodooSceneThumbnailEditor", "AlgodooSceneThumbnailEditor.csproj", "{4BC04E13-6AE6-4D14-8501-B00341B2961A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC04E13-6AE6-4D14-8501-B00341B2961A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC04E13-6AE6-4D14-8501-B00341B2961A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC04E13-6AE6-4D14-8501-B00341B2961A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC04E13-6AE6-4D14-8501-B00341B2961A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B112CE-116C-4914-89EF-EEA0378A606A}
+	EndGlobalSection
+EndGlobal
